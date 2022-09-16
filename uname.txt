@@ -1,0 +1,1 @@
+Linux CoLdFiReLaB-VM 5.15.0-15parrot1-amd64 #1 SMP Debian 5.15.15-15parrot2 (2022-02-15) x86_64 GNU/Linux
